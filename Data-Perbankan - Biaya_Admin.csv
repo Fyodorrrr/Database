@@ -1,0 +1,5 @@
+ID_Biaya_Admin,Jenis_Biaya_Admin,Nominal_Biaya_Admin
+B0,Tanpa Biaya Admin,0
+B1,BI Fast,2500
+B2,Realtime Online,6500
+B3,Top-Up,1000
