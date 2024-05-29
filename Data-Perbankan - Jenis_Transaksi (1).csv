@@ -1,0 +1,6 @@
+ID_Jenis_Transaksi,Jenis_Transaksi
+T0,Debit
+T1,Kredit Transfer Antar Rekening
+T2,Kredit Transfer Antar Bank
+T3,Kredit Transfer Virtual Account
+T4,Top-Up
